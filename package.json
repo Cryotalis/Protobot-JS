@@ -1,0 +1,29 @@
+{
+  "name": "protobot-old",
+  "version": "1.0.0",
+  "description": "An informational bot for Dungeon Defenders 2.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cryotalis/Protobot-Old.git"
+  },
+  "keywords": [],
+  "author": "Cryo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cryotalis/Protobot-Old/issues"
+  },
+  "homepage": "https://github.com/Cryotalis/Protobot-Old#readme",
+  "dependencies": {
+    "discord.js": "^11.6.4",
+    "dotenv": "^8.2.0",
+    "google-spreadsheet": "^2.0.7",
+    "node-cron": "^2.0.3",
+    "puppeteer": "^5.2.1",
+    "request": "^2.88.2",
+    "rss-parser": "^3.9.0"
+  }
+}

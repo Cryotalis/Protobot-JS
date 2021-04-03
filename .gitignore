@@ -1,0 +1,6 @@
+credentials.json
+token.json
+.env
+node_modules
+giveawayCommands/client_secret.json
+commands/client_secret.json
